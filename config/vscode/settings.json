@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.fontFamily": "CaskaydiaCove Nerd Font",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [80, 100],
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false
+}

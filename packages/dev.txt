@@ -1,0 +1,25 @@
+# Development tools and environments
+
+# Version control
+git
+
+# Code editors and IDEs
+vscode
+
+# Development environments
+nodejs-lts
+python
+nvm 
+pip
+
+
+# Build tools
+make
+cmake
+
+
+
+
+# Development utilities
+postman
+fiddler

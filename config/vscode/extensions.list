@@ -1,0 +1,47 @@
+# VS Code Extensions
+
+# Python development
+ms-python.python
+ms-python.vscode-pylance
+ formulahendry.python-snippets
+
+# JavaScript/TypeScript development
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+mrmlnc.vscode-scss
+bradlc.vscode-tailwindcss
+Zignd.html-css-class-completion
+
+# Git integration
+eamodio.gitlens
+
+# Docker support
+ms-azuretools.vscode-docker
+
+# Remote development
+ms-vscode-remote.remote-wsl
+ms-vscode-remote.remote-containers
+
+# PowerShell development
+ms-vscode.powershell
+ms-vscode.powershell-preview
+ironmansoftware.powershell-snippets
+
+# Theme and icons
+pkief.material-icon-theme
+emmanuelbeziat.vscode-great-icons
+
+# Document support
+James-Yu.latex-workshop
+tomoki1207.pdf
+bierner.markdown-preview-github-styles
+
+# AI and productivity
+GitHub.copilot
+vscode-openai
+chatgpt.chatgpt
+
+# Utilities
+yzhang.markdown-all-in-one
+streetsidesoftware.code-spell-checker
+christian-kohler.path-intellisense

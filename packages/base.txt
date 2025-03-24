@@ -1,0 +1,22 @@
+# Basic utilities and applications
+
+# Terminal and shell
+windows-terminal
+powershell-core
+
+# System utilities
+7zip
+winget
+
+# Browsers
+ARC
+
+# Media
+
+# Cloud storage
+
+# Communication
+nano yarn wget
+
+# Productivity
+notepadsplus

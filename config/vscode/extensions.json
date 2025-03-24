@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-python.python",
+    "ms-vscode.powershell",
+    "streetsidesoftware.code-spell-checker",
+    "christian-kohler.path-intellisense",
+    "emmanuelbeziat.vscode-great-icons",
+    "GitHub.copilot",
+    "James-Yu.latex-workshop",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+    "PKief.vscode-material-icon-theme",
+    "tomoki1207.pdf",
+    "ms-python.vscode-pylance",
+    "formulahendry.python-snippets",
+    "mrmlnc.vscode-scss",
+    "Zignd.html-css-class-completion",
+    "bradlc.vscode-tailwindcss",
+    "ironmansoftware.powershell-snippets",
+    "ms-vscode.powershell-preview",
+    "vscode-openai",
+    "chatgpt.chatgpt"
+  ]
+}
